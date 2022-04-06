@@ -21,7 +21,7 @@ public class LeapYear {
 		System.out.print("Yıl giriniz: ");
 		int year = scanner.nextInt();
 		
-		if(year % 400 == 0) {
+		if(year % 4 == 0) {
 			System.out.println(year + " Yılı Artık Yıldır.");
 		}
 		else {
