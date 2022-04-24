@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kdv {
+public class Kdv {
 	/* Java ile kullanıcıdan alınan para değerinin KDV'li 
 	 * fiyatını ve KDV tutarını hesaplayıp ekrana bastıran 
 	 * program yazın.
