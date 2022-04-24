@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class Main {
 	/*Java ile Matematik,Fizik,Kimya,Türkçe,Tarih,Müzik 
 	derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını
 	hesaplayıp ekrana bastırılan programı yazın.*/
