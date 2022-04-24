@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class Main {
 	/*
 	 * EBOK/EKOK Kullanıcıdan alınan 2 sayının Ebob ve ekok değerlerini hesaplama
 	 * 
