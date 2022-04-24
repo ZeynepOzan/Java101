@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pattern {
+public class Pattern {
 
 	static int patternSum(int temp, int number) {
 		
