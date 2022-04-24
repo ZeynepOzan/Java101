@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class body {
+public class Body {
 	/* Vücut Kitle İndeksi Hesaplama
 	 * Formül = Kilo(kg) / Boy(m) * Boy(m)
 	 */
